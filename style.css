@@ -32,7 +32,9 @@
     /* padding: 20px; */
     margin-top: 20px;
 }
-
+.leftside p {
+    color: #fff;
+}
 .leftside h2{
    color: #ffffff;
    margin-bottom: 12px;
